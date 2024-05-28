@@ -26,19 +26,31 @@ Task - 3 (ATM INTERFACE)
 We have all come across ATMs in our cities and it is built on Java. This complex project consists of
 five different classes and is a console-based application. When the system starts the user is
 prompted with user id and user pin. On entering the details successfully, then ATM functionalities
-are unlocked. The project allows to perform following operations:
+are unlocked.
+
+The project allows to perform following operations:
+
 1)Transactions History
+
 2)Withdraw
+
 3)Deposit
+
 4)Transfer
+
 5)Quit
 
 TASK - 4 (ONLINE EXAMINATION)
 
 The project should be capable of the following functionalities.
+
 1)Login
+
 2)Update Profile and Password
+
 3)Selecting answers for MCQs
+
 4)Timer and auto submit
+
 5)Closing session and Logout
 
